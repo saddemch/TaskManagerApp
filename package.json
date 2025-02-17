@@ -1,0 +1,23 @@
+{
+ "name": "TaskManagerApp",
+ "version": "1.0.0",
+ "description": "This app helps teams stay organized by managing tasks, assigning responsibilities, and tracking project progress in real time. We are developing a simplified version to test the concept | Cette application aide les équipes à s’organiser en gérant les tâches, assignant des responsabilités et suivant l’avancement en temps réel. Nous testons un concept simplifié. ",
+ "main": "server.js",
+ "type": "module",
+ "scripts": {
+  "dev": "nodemon server.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "Abdelmalek Bezri, Saddem Chorfi, Mamadou Lamine Sall, Taha Ait Bella",
+ "license": "UNLICENSED",
+ "dependencies": {
+  "compression": "^1.7.5",
+  "cors": "^2.8.5",
+  "dotenv": "^16.4.7",
+  "express": "^4.21.2",
+  "helmet": "^8.0.0"
+ },
+ "devDependencies": {
+  "nodemon": "^3.1.9"
+ }
+}
