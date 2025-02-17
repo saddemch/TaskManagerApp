@@ -1,5 +1,5 @@
 {
- "name": "TaskManagerApp",
+ "name": "TaskManagerApplication",
  "version": "1.0.0",
  "description": "This app helps teams stay organized by managing tasks, assigning responsibilities, and tracking project progress in real time. We are developing a simplified version to test the concept | Cette application aide les équipes à s’organiser en gérant les tâches, assignant des responsabilités et suivant l’avancement en temps réel. Nous testons un concept simplifié. ",
  "main": "server.js",
